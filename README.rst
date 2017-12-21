@@ -1,41 +1,41 @@
-Template
+Plantilla
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+$project resolverá su problema de por dónde empezar con la documentación,
+dando una explicación básica de cómo hacerlo fácilmente.
 
-Look how easy it is to use:
+Mira lo fácil que es de usar:
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
+    proyecto de importación
+    # Consigue tus cosas hechas
+    proyecto. do_stuff ()
 
-Features
+Características
 --------
 
-- Be awesome
-- Make things faster
+Sé impresionante
+Hacer las cosas más rápidas
 
-Installation
+Montaje Instalación
 ------------
 
-Install $project by running:
+Instale $project ejecutando:
 
-    install project
+    proyecto de instalación
 
-Contribute
+Contribuir
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+Seguimiento de emisiones: github. com/$project/$project/$project/issue
+Código fuente: github. com/$proyecto/$project
 
-Support
+Apoyo
 -------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+Si usted está teniendo problemas, por favor háganoslo saber.
+Tenemos una lista de correo localizada en: project@google-groups.com
 
-License
+Licencia
 -------
 
-The project is licensed under the BSD license.
+El proyecto está licenciado bajo la licencia BSD.
