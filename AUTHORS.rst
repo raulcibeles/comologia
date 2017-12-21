@@ -4,7 +4,7 @@ Authors
 2.0
 ---
 
-* Frank
+* Comologia
 
 1.0
 ---
